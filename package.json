@@ -1,6 +1,6 @@
 {
   "name": "lavastat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A TypeScript client for fetching Lavalink server statistics",
   "main": "dist/LavalinkClient.js",
   "types": "dist/LavalinkClient.d.ts",
